@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1b8b6cf-0968-4e36-9773-f038a2f3317b" name="Changes" comment="fc">
-      <change afterPath="$PROJECT_DIR$/src/WeightedGraph.java" afterDir="false" />
+    <list default="true" id="d1b8b6cf-0968-4e36-9773-f038a2f3317b" name="Changes" comment="interface">
+      <change afterPath="$PROJECT_DIR$/src/BreadthFirstSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeightedGraph.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +18,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -59,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716644389202</updated>
       <workItem from="1716644390270" duration="573000" />
-      <workItem from="1717000656740" duration="3574000" />
+      <workItem from="1717000656740" duration="6524000" />
     </task>
     <task id="LOCAL-00001" summary="fc">
       <option name="closed" value="true" />
@@ -69,7 +73,31 @@
       <option name="project" value="LOCAL" />
       <updated>1717000732636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="vertex">
+      <option name="closed" value="true" />
+      <created>1717004499052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717004499052</updated>
+    </task>
+    <task id="LOCAL-00003" summary="addEdge">
+      <option name="closed" value="true" />
+      <created>1717005166504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717005166504</updated>
+    </task>
+    <task id="LOCAL-00004" summary="interface">
+      <option name="closed" value="true" />
+      <created>1717005799890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717005799890</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +105,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fc" />
-    <option name="LAST_COMMIT_MESSAGE" value="fc" />
+    <MESSAGE value="vertex" />
+    <MESSAGE value="addEdge" />
+    <MESSAGE value="interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface" />
   </component>
 </project>
