@@ -15,6 +15,15 @@ public class WeightedGraph<V>{
     public Map<V, Vertex<V>> getVertices() {
         return vertices;
     }
+    public void addEdge(V source, V dest, double weight){
+        Vertex<V> sourceVertex = vertices.get(source);
+        Vertex<V> destVertex = vertices.get(dest);
+        if (sourceVertex != null && destVertex != null) {
+            sourceVertex.addAdjacentVertex(destVertex, weight);
+        }
+    }
+
+
 
 
 }
