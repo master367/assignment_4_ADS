@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1b8b6cf-0968-4e36-9773-f038a2f3317b" name="Changes" comment="interface">
-      <change afterPath="$PROJECT_DIR$/src/BreadthFirstSearch.java" afterDir="false" />
+    <list default="true" id="d1b8b6cf-0968-4e36-9773-f038a2f3317b" name="Changes" comment="BFS">
+      <change afterPath="$PROJECT_DIR$/src/DijkstraSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeightedGraph.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716644389202</updated>
       <workItem from="1716644390270" duration="573000" />
-      <workItem from="1717000656740" duration="6524000" />
+      <workItem from="1717000656740" duration="7908000" />
     </task>
     <task id="LOCAL-00001" summary="fc">
       <option name="closed" value="true" />
@@ -97,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717005799890</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="BFS">
+      <option name="closed" value="true" />
+      <created>1717007613032</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717007613032</updated>
+    </task>
+    <task id="LOCAL-00006" summary="BFS">
+      <option name="closed" value="true" />
+      <created>1717007629263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717007629263</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +123,7 @@
     <MESSAGE value="vertex" />
     <MESSAGE value="addEdge" />
     <MESSAGE value="interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="interface" />
+    <MESSAGE value="BFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="BFS" />
   </component>
 </project>
